@@ -13,7 +13,7 @@
   <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/oracle/F80000" alt="Oracle" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" width="40" height="40"/>
