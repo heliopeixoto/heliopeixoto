@@ -29,7 +29,7 @@
   <img src="https://cdn.simpleicons.org/adobexd/FF61F6" alt="Adobe XD" width="40" height="40"/>
 
   <!-- Ícones custom -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Embarcadero_Delphi_Logo.svg" alt="Delphi" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/delphi/delphi-plain.svg" alt="Delphi" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Asterisk_logo.svg" alt="Asterisk" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Phone_icon.svg" alt="VoIP" width="40" height="40"/>
 </p>
