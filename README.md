@@ -5,7 +5,9 @@
 🎯 Experiência com APIs, bancos de dados, automação de processos, **Inteligência Artificial**, **VoIP / Asterisk** e **Telefonia IP**.  
 
 ---
-
+<p align="center">
+  ** Stacks **
+</p>
 <p align="center">
   <!-- skillicons.dev -->
   <img src="https://skillicons.dev/icons?i=php,mysql,js,css,html,python,cpp,nodejs,jquery,git,aws,linux,bootstrap,godot,react" />
