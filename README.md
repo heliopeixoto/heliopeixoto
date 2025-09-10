@@ -2,18 +2,14 @@
 
 💻 Desenvolvedor de Software | Automação & Integrações | Sistemas Web  
 🚀 Apaixonado por tecnologia, inovação e criar soluções digitais que fazem diferença.  
-🎯 Experiência com APIs, bancos de dados e automação de processos.  
+🎯 Experiência com APIs, bancos de dados, automação de processos, **Inteligência Artificial**, **VoIP / Asterisk** e **Telefonia IP**.  
 
 ---
+
 <p align="center">
   <!-- skillicons.dev -->
   <img src="https://skillicons.dev/icons?i=php,mysql,js,css,html,python,cpp,nodejs,jquery,git,aws,linux,bootstrap,godot,react" />
-
-
 </p>
-
-
-
 
 ---
 
@@ -22,4 +18,5 @@
 - 📧 Email: **helio.peixoto@outlook.com**  
 
 ---
+
 ✨ Sempre aprendendo, sempre codando 🚀
